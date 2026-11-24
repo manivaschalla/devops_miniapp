@@ -21,4 +21,4 @@ jobs:
           python-version: "3.x"
 
       - name: Run Python script
-        run: python test_mini_app.py
+        run: python test_miniapp.py
